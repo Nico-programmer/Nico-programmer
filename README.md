@@ -7,7 +7,7 @@
   </a>
 
   <p>
-    <a href="https://www.linkedin.com/in/nicolas-paulo-vega-73365928b"><img src="https://img.shields.io/badge/LinkedIn-1f3a5f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/nicolaspaulovega"><img src="https://img.shields.io/badge/LinkedIn-1f3a5f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:nicolas.paulo.vega06@gmail.com"><img src="https://img.shields.io/badge/Gmail-1f3a5f?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/></a>
     <img src="https://img.shields.io/badge/Ibagu%C3%A9%2C%20Colombia-1f3a5f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación"/>
   </p>
@@ -119,6 +119,10 @@ nicolas = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nico-programmer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="165" alt="Estadísticas de GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-programmer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Lenguajes más usados"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nico-programmer&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true" width="100%" alt="Gráfica de actividad"/>
 </div>
 
 <!-- Contador de visitas -->
